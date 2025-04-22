@@ -1,0 +1,11 @@
+Hello world!
+This is a test input.
+
+The quick brown fox jumps over the lazy dog.
+12345
+HELLO, WORLD!!!
+Symbols like @, #, and !! should be ignored.
+
+Another line with the same words: the quick BROWN fox.
+
+End of test.

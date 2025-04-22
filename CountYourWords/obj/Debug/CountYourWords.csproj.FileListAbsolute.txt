@@ -1,0 +1,8 @@
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\bin\Debug\CountYourWords.exe.config
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\bin\Debug\CountYourWords.exe
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\bin\Debug\CountYourWords.pdb
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\obj\Debug\CountYourWords.csproj.AssemblyReference.cache
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\obj\Debug\CountYourWords.csproj.CoreCompileInputs.cache
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\obj\Debug\CountYourWords.exe
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\obj\Debug\CountYourWords.pdb
+C:\Users\timo_\Documents\ProgrammerProjects\CountYourWords\bin\Debug\input.txt
